@@ -1,13 +1,10 @@
 # Landing Page Project
 
-## Table of Contents
+## Introduction
+The project is an assignment of Udacity's Frontend Nanodegree online course. The project uses javascript (in js/app.js) to give interactive behaviours to elements on index.html. Implemented features are:  
+- Navbar menu items are dynamically generated from the sections in body;
+- User will be navigated to corresponding section by clicking on the item on navbar menu;
+- When navigating through the sections by clicking or scrolling, the displaying section will be highlighted.
 
-* [Instructions](#instructions)
-
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Usage
+You can host the project on a local Nginx, tomcat or any other development server and open the index.html on the correct portal to try out the effects.   
